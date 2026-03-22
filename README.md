@@ -158,8 +158,9 @@ L'analisi della feature importance e i valori SHAP mostrano che le variabili pi�
 ## Autore
 
 **Nico Valenzuela**
-Studente Professional Data Analyst — ITS ICTAccademy, Roma
+Studente Professional Data Analyst — ITS-ICTAcademy, Roma
 [GitHub](https://github.com/Nico-Oz-ops)
+
 ---
 ---
 
@@ -227,6 +228,6 @@ The top 5 most important features according to SHAP analysis:
 ## Author
 
 **Nico Valenzuela**
-Professional Data Analyst Student — ITS ICTAccademy, Rome
+Professional Data Analyst Student — ITS-ICTAccademy, Rome
 [GitHub](https://github.com/Nico-Oz-ops)
 
