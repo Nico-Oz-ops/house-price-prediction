@@ -1,10 +1,10 @@
-# 🏠 House Price Prediction — Kaggle Dataset
+# House Price Prediction — Kaggle Dataset
 
 > 🇮🇹 [Leggi in Italiano](#-descrizione-del-progetto) | 🇬🇧 [Read in English](#-project-description)
 
 ---
 
-## 🇮🇹 Descrizione del Progetto
+## Descrizione del Progetto
 
 Progetto di Machine Learning per la previsione del prezzo di vendita di immobili residenziali, sviluppato nell'ambito del percorso **Professional Data Analyst** presso **ITS ICTAccademy** (Roma).
 
@@ -163,7 +163,7 @@ Studente Professional Data Analyst — ITS ICTAccademy, Roma
 ---
 ---
 
-## 🇬🇧 Project Description
+## Project Description
 
 Machine Learning project for predicting residential property sale prices, developed as part of the **Professional Data Analyst** program at **ITS ICTAccademy** (Rome).
 
